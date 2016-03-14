@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>c_pkg</name>
+  <version>0.0.0</version>
+  <description>test example</description>
+  <maintainer email="nikolaus@nikolaus-demmel.de">Nikolaus Demmel</maintainer>
+  <license>MIT</license>
+  <buildtool_depend>catkin</buildtool_depend>
+  <buildtool_depend>b_pkg</buildtool_depend>
+</package>
