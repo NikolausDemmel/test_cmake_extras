@@ -1,5 +1,5 @@
 cmake_minimum_required(VERSION 2.8.3)
 project(c_pkg)
-message("CMakeLists C before find_package")
+#message("CMakeLists C before find_package")
 find_package(catkin REQUIRED COMPONENTS b_pkg)
-message("CMakeLists C after find_package")
+#message("CMakeLists C after find_package")

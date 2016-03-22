@@ -1,7 +1,7 @@
-message("Extras A")
+#message("Extras A")
 
 macro(a_macro)
-    message("Macro A")
+#    message("Macro A")
 endmacro()
 
 
